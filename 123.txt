@@ -11,5 +11,5 @@ print("new branch 01123");
 print("new branch 02");
 
 
-chery pick02
+
 }
