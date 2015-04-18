@@ -6,7 +6,7 @@ main(){
  
 print("_ change by new branch");
 
-print("new branch 01");
+print("new branch 01 - master");
 
 print("new branch 02");
 
